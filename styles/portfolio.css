@@ -103,3 +103,29 @@ main{
     font-size: 20px;
     color: #746f6f;
 }
+/* what i do styles */
+.what-i-do{
+    margin-top: 130px;
+}
+.skills-container{
+    display: flex;
+    gap:24px;
+}
+.skill{
+    background: #fab07c;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    padding: 30px;
+}
+.skill-title{
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.skill-description{
+    color: #746f6f;
+}
+
+
+
