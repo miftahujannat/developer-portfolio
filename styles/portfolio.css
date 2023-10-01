@@ -75,7 +75,7 @@ main{
 /* about section style */
 .about{
     margin-top: 130px;
-    background: #e78036;
+    background: #ec9353;
     border-radius: 10px;
     padding: 130px 150px;
 }
@@ -113,7 +113,7 @@ main{
     gap:24px;
 }
 .skill{
-    background: #e77422;
+    background: #f09859;
     box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
     border-radius: 5px;
     padding: 30px;
@@ -158,5 +158,27 @@ main{
 .resume-button{
     margin-top: 50px;
     text-align: center;
+    margin-bottom: 100px;
 }
+/* contact styles */
+.contact{
+    display: flex;
+    background-color:#f09859;
+    gap:100px;
+    padding: 130px 200px;
+}
+.contact-section-title{
+    text-align: left;
+    font-weight: 700;
+    font-size: 25px; 
 
+}
+.contact input,textarea{
+    margin-bottom: 24px;
+    border: 0;
+    width: 100%;
+    padding: 18px 30px;
+}
+input{
+    height: 50px;
+}
